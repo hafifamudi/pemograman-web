@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form-bio {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+}
+
+
+.form-bio .form-field {
+    display: flex;
+    margin-top: 10px;
+    justify-content: flex-start;
+}
+
+.input-form {
+    margin-left: auto;
+  }
+/* .form-field label {
+    margin-right: 30%;
+} */
